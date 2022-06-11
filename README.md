@@ -54,7 +54,7 @@ npm start
   
 ## NOTE
   
-The name of session this bot is [`rio.json`](https://github.com/Xyrzaa/riomd-v1/blob/main/rio.json)
+The name of session this bot is [`session.json`](https://github.com/Xyrzaa/SymphonyMD/blob/main/session.json)
   
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
