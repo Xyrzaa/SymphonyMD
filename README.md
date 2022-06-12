@@ -26,9 +26,9 @@ Kalian boleh menjual/ merecode script ini, asal kasih nama gw lah di Thx to.
 ```
     
 [`BaseOriByDikaArdnt`](https://github.com/DikaArdnt/Hisoka-Morou)
-[`BOTMDbyLexxy`](https://github.com/Lexxy24/BOTMD)
+[`riomd-v1`](https://github.com/Xyrzaa/riomd-v1)
   
-Lalu saya rapihkan tampilan menu, dan saya tambahkan beberapa fitur di [`riomd-v1`](https://github.com/RioooNoCounter/SymphonyMD)
+Lalu saya rapihkan tampilan menu, dan saya tambahkan beberapa fitur di [`SymphonyMD`](https://github.com/Xyrzaa/SymphonyMD)
 
   
  -------
